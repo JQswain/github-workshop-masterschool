@@ -7,3 +7,6 @@ print("This is a GitHub online interface")
 
 def check_stuff():
   pass
+
+print("See if this is working...")
+check_stuff()
